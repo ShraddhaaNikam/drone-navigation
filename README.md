@@ -6,8 +6,6 @@
 * The model is used for the detection of deep fake or AI-generated images that 
   are now widely used for spreading hate speech and fake news.
   
-# Project Report
-[View My Report](https://github.com/vrmaverick/DeepFake_Detector/blob/main/DeepFake_Report.pdf). This was our third-year Year Project.
 
 # Data
 *We are using Kaggle data  uploaded on the drive can be downloaded from the following URL
@@ -99,10 +97,6 @@ Updated.ipynb # A notebook used in training and testing
 Deepfake_Detector.ipynb # Initial model trained using this notebook it is the old copy
 ```
 
-## Contact
-* [LinkdIn](https://www.linkedin.com/in/vedant-ranade-683867271/)
-* Email : vedantranade2612@gmail.com
-* [Portfolio](https://vedant-ranade.netlify.app/)
 
 
 
